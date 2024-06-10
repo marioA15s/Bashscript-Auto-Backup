@@ -7,3 +7,12 @@ In this project, I successfully created an Automated bash script for our organiz
 - SecurityIncident (Incidents created by Sentinel)
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
+
+
+
+
+
+
+
+
+
